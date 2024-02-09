@@ -20,6 +20,7 @@
 - CSS3;
 - JavaScript (для интерактивных элементов);
 - Библиотеки JS (Materalize)
+- Библиотеки CSS (Materalize)
 - Библиотека иконок (Font Awesome);
 - Библиотека шрифтов (Google Fonts).
 - Методология BEM.
